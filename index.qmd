@@ -1,7 +1,7 @@
 ---
-title: "mysite"
+title: "Gabe's website"
 ---
 
-This is a Quarto website.
+This is a Gabe's website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
